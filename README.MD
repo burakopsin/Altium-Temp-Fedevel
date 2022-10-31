@@ -1,5 +1,4 @@
-## 28Pins Project
-
+## FEDEVEL ALTUIM TEMP
 ### Examples of other directory names:
 V1I1A - only BOM changes
 V1I2 - pin compatible with V1I1, no big changes
